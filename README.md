@@ -92,23 +92,23 @@ melhores práticas de segurança da informação.
 A metodologia adotada para esta auditoria de cibersegurança ofensiva na Virtual Tech 
 foi projetada para ser abrangente e sistemática, garantindo uma avaliação detalhada da 
 conformidade com a ISO 27001 e a eficácia do sistema de monitoramento de redes e 
-sistemas. A metodologia engloba as seguintes etapas:
+sistemas. A metodologia engloba as seguintes etapas:<br />
   • Planejamento da Auditoria: Definição dos objetivos, escopo e critérios da auditoria.
 Seleção da equipe de auditoria, garantindo conhecimento técnico adequado e 
 imparcialidade. Preparação de um cronograma de auditoria, incluindo datas para 
-reuniões de abertura e fechamento, avaliação no local e revisões de documentação.
+reuniões de abertura e fechamento, avaliação no local e revisões de documentação.<br />
   • Inspeção e Observação In Loco: Avaliação física das instalações para verificar 
 medidas de segurança física e operacional. Observação direta das práticas de 
 monitoramento em ação, incluindo a revisão dos sistemas de gerenciamento de logs 
-e ferramentas de análise de segurança.
+e ferramentas de análise de segurança.<br />
   • Testes Técnicos: Condução de testes de penetração e análise de vulnerabilidades 
 para avaliar a robustez do sistema de monitoramento contra-ataques cibernéticos.
 Análise de logs e alertas de segurança para determinar a eficácia na detecção e 
-resposta a incidentes.
+resposta a incidentes.<br />
   • Avaliação de Conformidade e Riscos: Comparação dos achados com os critérios 
 de auditoria para identificar áreas de não conformidade e riscos de segurança.
 Avaliação do impacto das não conformidades e riscos na segurança global da 
-informação da Virtual Tech.
+informação da Virtual Tech.<br />
   • Relatório de Auditoria: Elaboração de um relatório detalhado de auditoria, 
 destacando as descobertas, não conformidades, riscos identificados e 
 recomendações de melhoria. Apresentação do relatório às partes interessadas, 
