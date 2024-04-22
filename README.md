@@ -13,8 +13,6 @@ Destinatário: Virtual Tech
 * [Critérios](#critérios)
 * [Metodologia](#metodologia)
 * [Resumo Executivo](#resumo-executivo)
-* [Anexos](#anexos)
-
 
 # Escopo
 O escopo desta auditoria de cibersegurança ofensiva foca na avaliação detalhada do 
